@@ -41,13 +41,12 @@ p {
 	clear:right;
 	font-family:  Helvetica, Arial, sans-serif;
 } 
-}
-@media (min-width: 992px){
+@media (min-width: 992px) {
 	section {
 		width: 31%;
 	}
 }
-@media (min-width: 768px) and (max-width: 991px){
+@media (min-width: 768px) and (max-width: 991px) {
 	section {
 		width: 46%;
 	}
